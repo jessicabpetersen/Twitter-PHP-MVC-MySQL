@@ -13,5 +13,12 @@ Colocar dentro do xampp ou então iniciar o cmd e entrar dentro da pasta public 
 **obs:**  
 Apenas a pasta _public_ deve ficar dentro da pasta publica (no xampp é a htdocs). Os demais arquivos devem ficar fora da pasta pública.
 
+**Img:**
+Página inicia:  
+![Screenshot](pagInicial.png)
+
+Página Home:
+![Screenshot](pagHome.png)
+
 
  
